@@ -4,11 +4,8 @@
 			<div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
 				<div class="col-sm-12 align-center">
 					<ul class="social-network social-circle">
-						<li><a href="http://bootstraptaste.com/theme/amoeba/#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a></li>
-						<li><a href="http://bootstraptaste.com/theme/amoeba/#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="http://bootstraptaste.com/theme/amoeba/#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="http://bootstraptaste.com/theme/amoeba/#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
-						<li><a href="http://bootstraptaste.com/theme/amoeba/#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="http://bootstraptaste.com/theme/amoeba/#" class="icoRss" title="Rss"><i class="flaticon-airplane49"></i></a></li>
+					
 					</ul>				
 				</div>
 			</div>

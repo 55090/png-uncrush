@@ -15,6 +15,11 @@
 <!-- dropZone -->
 <link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/dropzone.css">
 <!-- dropZone -->
+<!-- github icon -->
+<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets') ?>/css/flaticon.css"> 
+
+<!-- github icon -->
+
 <!-- skin -->
 <link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/default.css">
 
@@ -26,15 +31,13 @@
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 					<span class="fa fa-bars color-white"></span>
 				</button>
-				<h1><a class="navbar-brand skrollable skrollable-between" href="<?php echo base_url() ?>" data-0="line-height:90px;" data-300="line-height:50px;" style="line-height: 90px;"><img src="<?php echo base_url('assets/img/logo.png')?>" alt="Smiley face"></a></h1>
+				<h1><a class="navbar-brand skrollable skrollable-between" href="<?php echo base_url() ?>" data-0="line-height:90px;" data-300="line-height:50px;" style="line-height: 90px;">PNG uncrush</a></h1>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav skrollable skrollable-between" data-0="margin-top:20px;" data-300="margin-top:5px;" style="margin-top: 20px;">
-					<li class=""><a href="<?php echo base_url() ?>">Home</a></li>
-					<li class=""><a href="http://bootstraptaste.com/theme/amoeba/#section-about">About</a></li>
-					<li class=""><a href="http://bootstraptaste.com/theme/amoeba/#section-works">Portfolio</a></li>
-					<li class=""><a href="http://bootstraptaste.com/theme/amoeba/#section-contact">Contact</a></li>
+					<li class=""><a href="https://github.com/xtarx/png-uncrush">Github</a></li>
 				</ul>
 			</div><!--/.navbar-collapse -->
 		</div>
 	</div>
+<i class="flaticon-airplane49"></i>
